@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(149, 0, 186);
+    margin: 10px auto;
+}
+
+.display-1 {
+    color: whitesmoke;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.container {
+    border: 10px solid rgb(255, 161, 161); 
+    color: white;
+}
+
+.container-fluid {
+    border: 10px solid rgb(255, 213, 0); 
+    color: white;
+}
+
+.container-sm {
+    border: 10px solid rgb(255, 247, 0); 
+    color: white;
+}
+
+.container-md {
+    border: 10px solid rgb(72, 255, 5); 
+    color: white;
+}
+
+.container-lg {
+    border: 10px solid rgb(0, 255, 255); 
+    color: white;
+}
+
+.container-xl {
+    border: 10px solid rgb(0, 55, 253); 
+    color: white;
+}
+
+.container-xxl {
+    border: 10px solid rgb(255, 0, 157); 
+    color: white;
+}
+
+.row {
+    border: 8px solid rgb(0, 0, 0);
+    color: black;
+}
+
+.container .row div:nth-child(odd) {
+    background-color: rgb(245, 255, 170);
+}
+
+.container .row div:nth-child(even) {
+    background-color: rgb(180, 255, 161);
+}
+
+/*  */
+.backdrop {
+    background-image : url('bg.jpg');
+    background-size: cover;
+    height: 500px;
+    color: white;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+h1 {
+    font-size: 70px;
+}
+
