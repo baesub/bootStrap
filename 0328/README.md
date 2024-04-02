@@ -2,4 +2,4 @@
 
 ## <a href="https://baesub.github.io/bootStrap/0328/index.html"> button </a> <br>
 ## <a href="https://baesub.github.io/bootStrap/0328//last.html"> page </a> <br>
-## <a href="https://baesub.github.io/bootStrap/0328/slide.html"> slide </a> 
+## <a href="https://baesub.github.io/bootStrap/0328/slide.html"> slide&Card </a> 
